@@ -14,7 +14,7 @@
 - [《乌合之众》](https://book.douban.com/subject/6966569/)
 - [《娱乐至死》](https://book.douban.com/subject/1062193/)
 - [《聪明的投资者》](https://book.douban.com/subject/5243775/)
-
+- [《货币的非国家化》](https://book.douban.com/subject/33464162/)
 
 ## 文章推荐
 - [Nick Szabo：货币，区块链与社会可扩展性](https://www.btcstudy.org/2021/10/27/money-blockchains-and-social-scalability-echo-edition/) 
